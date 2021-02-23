@@ -1,0 +1,27 @@
+.list {
+  $w: 100px;
+  $h: 50px;
+  li {
+    width: $w;
+    height: $h;
+  }
+  @at-root .box {
+    width: $w;
+    height: $h;
+  }
+}
+
+.section {
+  $width: 100px;
+  $height: 200px;
+  width: $width;
+  height: $height;
+  .item {
+    width: $width;
+    height: $height;
+  }
+  @at-root .box {
+    width: $width;
+    height: $height;
+  }
+}
