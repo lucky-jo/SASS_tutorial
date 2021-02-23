@@ -1,0 +1,23 @@
+{
+  "name": "SASS_tutorial",
+  "version": "1.0.0",
+  "description": "SASS(SCSS) 학습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ildang100/SASS_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ildang100/SASS_tutorial/issues"
+  },
+  "homepage": "https://github.com/ildang100/SASS_tutorial#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
