@@ -1,0 +1,14 @@
+.btn {
+  position: absolute;
+  &.active {
+    color: red;
+  }
+}
+
+.list {
+  li {
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
